@@ -1,0 +1,15 @@
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\bin\Debug\ContadorDeHilos.exe.config
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\bin\Debug\ContadorDeHilos.exe
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\bin\Debug\ContadorDeHilos.pdb
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\ContadorDeHilos.csprojAssemblyReference.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\MainWindow.g.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\App.g.cs
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\ContadorDeHilos_MarkupCompile.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\ContadorDeHilos_MarkupCompile.lref
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\MainWindow.baml
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\ContadorDeHilos.g.resources
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\ContadorDeHilos.Properties.Resources.resources
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\ContadorDeHilos.csproj.GenerateResource.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\ContadorDeHilos.csproj.CoreCompileInputs.cache
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\ContadorDeHilos.exe
+C:\Users\galil\OneDrive\Documentos\GitHub\contador-hilos-gaby2327\ContadorHilos\ContadorDeHilos\obj\Debug\ContadorDeHilos.pdb
